@@ -1,11 +1,11 @@
-# E-Commerce App
+# technocore
 
 ## Overview
-The E-Commerce App is a robust web application designed to provide users with a seamless online shopping experience. Built using modern technologies, this app allows users to browse products, manage their carts, and complete transactions with ease.
+Technocore is an E-Commerce App is a robust web application designed to provide users with a seamless online shopping experience. Built using modern technologies, this app allows users to browse products, manage their carts, and complete transactions with ease.
 
 ### Technologies Used
 - **Frontend:**
-  - TypeScript
+  - javaScript
   - React
 - **Backend:**
   - Node.js
@@ -58,11 +58,6 @@ git clone https://github.com/yourusername/ecommerce-app.git
    npm start
    ```
 
-## Live Preview
-You can try out the live version of the app here: [Live Preview](#)
 
-## Contributing
-Feel free to submit issues and pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
